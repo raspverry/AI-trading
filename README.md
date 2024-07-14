@@ -1,5 +1,7 @@
 # Advanced AI Trading System
 
+## Currently WIP
+
 ## Overview
 
 This repository contains an advanced AI-based trading system that integrates various machine learning models, financial technical indicators, and sentiment analysis to simulate trading strategies. The system preprocesses financial data, trains models, makes predictions, and executes trades to simulate trading performance over historical data.
