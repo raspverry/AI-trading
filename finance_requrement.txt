@@ -1,0 +1,7 @@
+pip install numpy pandas scikit-learn matplotlib nltk backtrader statsmodels scipy scikit-optimize pyfolio xgboost keras tensorflow hmmlearn yfinance shap optuna transformers stable-baselines3 gym
+pip install PyPortfolioOpt
+pip install yfinance      
+pip install nltk    
+pip install backtrader statsmodels skopt
+pip install scikit-optimize pyfolio keras tensorflow hmmlearn shap optuna transformers stable_baselines3 tf-keras
+xgboost(option, not for standalone)
